@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin>
+        <name>MP3</name>
+        <jar>plugin/a-plugin.jar</jar>
+        <class>plugin.MP3PlayerPlugin</class>
+    </plugin>
+    <plugin>
+        <name>OGG</name>
+        <jar>plugin/a-plugin.jar</jar>
+        <class>plugin.OGGPlayerPlugin</class>
+    </plugin>
+    <plugin>
+        <name>WAV</name>
+        <jar>plugin/a-plugin.jar</jar>
+        <class>plugin.WAVPlayerPlugin</class>
+    </plugin>
+</plugins>
