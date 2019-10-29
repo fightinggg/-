@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="aopalliance-repackaged-2.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/aopalliance-repackaged-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/hk2-api-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/hk2-locator-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/hk2-utils-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.inject-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.json-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.json-api-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.json.bind-api-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.persistence-api-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.servlet-api-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.validation-api-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.ws.rs-api-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/javassist-3.25.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-hk2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-media-jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-media-json-binding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-media-sse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/osgi-resource-locator-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/yasson-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/jakarta.ws.rs-api-2.1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/java/WS/org.osgi.core-6.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>

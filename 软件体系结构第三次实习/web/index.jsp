@@ -12,8 +12,9 @@
 </head>
 <body>
 <form action="action" method="post">
+    <span>协议:<input type="text" name="type"></span><br>
     <span>邮箱地址:<input name="url" type="text"/></span><br>
-    <span>内容:<input type="text" height="100px" width="100px" name="payload"></span><br>
+    <span>内容:<input type="text" name="payload"></span><br>
     <input type="submit" value="提交">
 </form>
 </body>

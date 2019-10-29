@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="软件体系结构第三次实习:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="软件体系结构第三次实习/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="软件体系结构第三次实习" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="JAX-WS-Apache Axis" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="library" level="project" name="aopalliance-repackaged-2.6.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

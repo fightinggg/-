@@ -10,6 +10,9 @@
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
       </configuration>
+      <facet type="webservices" name="WebServices">
+        <configuration ws.engine="Apache Axis" />
+      </facet>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -20,6 +23,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.26" level="application_server_libraries" />
+    <orderEntry type="library" name="JAX-WS-Apache Axis" level="project" />
     <orderEntry type="library" name="javax.mail" level="project" />
+    <orderEntry type="library" name="aopalliance-repackaged-2.6.1" level="project" />
   </component>
 </module>
